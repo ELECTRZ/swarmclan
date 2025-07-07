@@ -1,0 +1,26 @@
+[Wed Jul 02 01:08:50.737634 2025] [authz_core:error] [pid 1408314:tid 1408394] [client 46.101.1.225:49442] AH01630: client denied by server configuration: /www/wwwroot/swarmclan.ru/frontend/server-status
+[Wed Jul 02 01:08:51.352021 2025] [authz_core:error] [pid 1408312:tid 1408422] [client 46.101.1.225:49488] AH01630: client denied by server configuration: /www/wwwroot/swarmclan.ru/frontend/.git
+[Wed Jul 02 03:44:34.512024 2025] [proxy:error] [pid 1096:tid 1227] (111)Connection refused: AH00957: http: attempt to connect to 127.0.0.1:3001 (localhost:3001) failed
+[Wed Jul 02 03:44:34.512594 2025] [proxy_http:error] [pid 1096:tid 1227] [client 44.243.3.129:44296] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://swarmclan.ru/
+[Wed Jul 02 03:44:37.363397 2025] [proxy:error] [pid 1097:tid 1183] (111)Connection refused: AH00957: http: attempt to connect to 127.0.0.1:3001 (localhost:3001) failed
+[Wed Jul 02 03:44:37.363459 2025] [proxy_http:error] [pid 1097:tid 1183] [client 44.243.3.129:44324] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://swarmclan.ru/
+[Wed Jul 02 06:45:01.620251 2025] [proxy:error] [pid 1097:tid 1178] (111)Connection refused: AH00957: http: attempt to connect to 127.0.0.1:3001 (localhost:3001) failed
+[Wed Jul 02 06:45:01.620541 2025] [proxy_http:error] [pid 1097:tid 1178] [client 152.228.215.155:54132] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://swarmclan.ru/
+[Wed Jul 02 15:24:33.663907 2025] [proxy:error] [pid 1098:tid 1285] (111)Connection refused: AH00957: http: attempt to connect to 127.0.0.1:3001 (localhost:3001) failed
+[Wed Jul 02 15:24:33.664030 2025] [proxy_http:error] [pid 1098:tid 1285] [client 17.22.245.64:60544] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://swarmclan.ru/
+[Wed Jul 02 15:25:46.396586 2025] [proxy:error] [pid 1098:tid 1299] (111)Connection refused: AH00957: http: attempt to connect to 127.0.0.1:3001 (localhost:3001) failed
+[Wed Jul 02 15:25:46.396896 2025] [proxy_http:error] [pid 1098:tid 1299] [client 17.246.23.137:53110] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://www.swarmclan.ru/
+[Thu Jul 03 06:22:23.571055 2025] [proxy:error] [pid 94086:tid 94206] (111)Connection refused: AH00957: http: attempt to connect to 127.0.0.1:3001 (localhost:3001) failed
+[Thu Jul 03 06:22:23.571169 2025] [proxy_http:error] [pid 94086:tid 94206] [client 185.177.72.32:60093] AH01114: HTTP: failed to make connection to backend: localhost
+[Thu Jul 03 17:32:11.586992 2025] [proxy:error] [pid 1115:tid 1217] (111)Connection refused: AH00957: http: attempt to connect to 127.0.0.1:3001 (localhost:3001) failed
+[Thu Jul 03 17:32:11.587370 2025] [proxy_http:error] [pid 1115:tid 1217] [client 185.177.72.32:46421] AH01114: HTTP: failed to make connection to backend: localhost
+[Sat Jul 05 00:20:52.646778 2025] [proxy:error] [pid 122402:tid 122532] (111)Connection refused: AH00957: http: attempt to connect to 127.0.0.1:3000 (127.0.0.1:3000) failed
+[Sat Jul 05 00:20:52.647202 2025] [proxy_http:error] [pid 122402:tid 122532] [client 172.71.184.16:62492] AH01114: HTTP: failed to make connection to backend: 127.0.0.1
+[Sun Jul 06 17:21:25.261897 2025] [proxy:error] [pid 234978:tid 235082] (111)Connection refused: AH00957: http: attempt to connect to 127.0.0.1:3000 (127.0.0.1:3000) failed
+[Sun Jul 06 17:21:25.262094 2025] [proxy_http:error] [pid 234978:tid 235082] [client 178.128.218.217:64499] AH01114: HTTP: failed to make connection to backend: 127.0.0.1
+[Sun Jul 06 17:21:25.704531 2025] [proxy:error] [pid 234978:tid 235081] (111)Connection refused: AH00957: http: attempt to connect to 127.0.0.1:3000 (127.0.0.1:3000) failed
+[Sun Jul 06 17:21:25.704648 2025] [proxy_http:error] [pid 234978:tid 235081] [client 178.128.218.217:64791] AH01114: HTTP: failed to make connection to backend: 127.0.0.1
+[Sun Jul 06 17:21:26.143451 2025] [proxy:error] [pid 234978:tid 235076] (111)Connection refused: AH00957: http: attempt to connect to 127.0.0.1:3000 (127.0.0.1:3000) failed
+[Sun Jul 06 17:21:26.143620 2025] [proxy_http:error] [pid 234978:tid 235076] [client 178.128.218.217:57025] AH01114: HTTP: failed to make connection to backend: 127.0.0.1
+[Sun Jul 06 17:21:26.562374 2025] [proxy:error] [pid 234978:tid 235079] (111)Connection refused: AH00957: http: attempt to connect to 127.0.0.1:3000 (127.0.0.1:3000) failed
+[Sun Jul 06 17:21:26.562581 2025] [proxy_http:error] [pid 234978:tid 235079] [client 178.128.218.217:50482] AH01114: HTTP: failed to make connection to backend: 127.0.0.1

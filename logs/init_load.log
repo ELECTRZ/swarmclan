@@ -1,0 +1,224 @@
+=== Начальная загрузка данных ===
+Processing: 2025-07-03 05:41:31 to 2025-07-03 05:53:11
+[05:53:11] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751493191 (Range: 05:41:31 - 05:53:11)
+Processing: 2025-07-03 05:29:51 to 2025-07-03 05:41:31
+[05:53:13] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751492491 (Range: 05:29:51 - 05:41:31)
+Processing: 2025-07-03 05:18:11 to 2025-07-03 05:29:51
+[05:53:15] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751491791 (Range: 05:18:11 - 05:29:51)
+Processing: 2025-07-03 05:06:31 to 2025-07-03 05:18:11
+[05:53:17] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751491091 (Range: 05:06:31 - 05:18:11)
+Processing: 2025-07-03 04:54:51 to 2025-07-03 05:06:31
+[05:53:20] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751490391 (Range: 04:54:51 - 05:06:31)
+Processing: 2025-07-03 04:43:11 to 2025-07-03 04:54:51
+[05:53:22] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751489691 (Range: 04:43:11 - 04:54:51)
+Processing: 2025-07-03 04:31:31 to 2025-07-03 04:43:11
+[05:53:24] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751488991 (Range: 04:31:31 - 04:43:11)
+Processing: 2025-07-03 04:19:51 to 2025-07-03 04:31:31
+[05:53:26] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751488291 (Range: 04:19:51 - 04:31:31)
+Processing: 2025-07-03 04:08:11 to 2025-07-03 04:19:51
+[05:53:28] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751487591 (Range: 04:08:11 - 04:19:51)
+Processing: 2025-07-03 03:56:31 to 2025-07-03 04:08:11
+[05:53:31] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751486891 (Range: 03:56:31 - 04:08:11)
+Processing: 2025-07-03 03:44:51 to 2025-07-03 03:56:31
+[05:53:33] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751486191 (Range: 03:44:51 - 03:56:31)
+Processing: 2025-07-03 03:33:11 to 2025-07-03 03:44:51
+[05:53:35] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751485491 (Range: 03:33:11 - 03:44:51)
+Processing: 2025-07-03 03:21:31 to 2025-07-03 03:33:11
+[05:53:37] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751484791 (Range: 03:21:31 - 03:33:11)
+Processing: 2025-07-03 03:09:51 to 2025-07-03 03:21:31
+[05:53:39] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751484091 (Range: 03:09:51 - 03:21:31)
+Processing: 2025-07-03 02:58:11 to 2025-07-03 03:09:51
+[05:53:41] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751483391 (Range: 02:58:11 - 03:09:51)
+Processing: 2025-07-03 02:46:31 to 2025-07-03 02:58:11
+[05:53:43] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751482691 (Range: 02:46:31 - 02:58:11)
+Processing: 2025-07-03 02:34:51 to 2025-07-03 02:46:31
+[05:53:45] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751481991 (Range: 02:34:51 - 02:46:31)
+Processing: 2025-07-03 02:23:11 to 2025-07-03 02:34:51
+[05:53:48] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751481291 (Range: 02:23:11 - 02:34:51)
+Processing: 2025-07-03 02:11:31 to 2025-07-03 02:23:11
+[05:53:50] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751480591 (Range: 02:11:31 - 02:23:11)
+Processing: 2025-07-03 01:59:51 to 2025-07-03 02:11:31
+[05:53:52] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751479891 (Range: 01:59:51 - 02:11:31)
+Processing: 2025-07-03 01:48:11 to 2025-07-03 01:59:51
+[05:53:54] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751479191 (Range: 01:48:11 - 01:59:51)
+Processing: 2025-07-03 01:36:31 to 2025-07-03 01:48:11
+[05:53:56] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751478491 (Range: 01:36:31 - 01:48:11)
+Processing: 2025-07-03 01:24:51 to 2025-07-03 01:36:31
+[05:53:58] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751477791 (Range: 01:24:51 - 01:36:31)
+Processing: 2025-07-03 01:13:11 to 2025-07-03 01:24:51
+[05:54:00] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751477091 (Range: 01:13:11 - 01:24:51)
+Processing: 2025-07-03 01:01:31 to 2025-07-03 01:13:11
+[05:54:02] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751476391 (Range: 01:01:31 - 01:13:11)
+Processing: 2025-07-03 00:49:51 to 2025-07-03 01:01:31
+[05:54:04] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751475691 (Range: 00:49:51 - 01:01:31)
+Processing: 2025-07-03 00:38:11 to 2025-07-03 00:49:51
+[05:54:06] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751474991 (Range: 00:38:11 - 00:49:51)
+Processing: 2025-07-03 00:26:31 to 2025-07-03 00:38:11
+[05:54:08] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751474291 (Range: 00:26:31 - 00:38:11)
+Processing: 2025-07-03 00:14:51 to 2025-07-03 00:26:31
+[05:54:10] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751473591 (Range: 00:14:51 - 00:26:31)
+Processing: 2025-07-03 00:03:11 to 2025-07-03 00:14:51
+[05:54:12] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751472891 (Range: 00:03:11 - 00:14:51)
+Processing: 2025-07-02 23:51:31 to 2025-07-03 00:03:11
+[05:54:14] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751472191 (Range: 23:51:31 - 00:03:11)
+Processing: 2025-07-02 23:39:51 to 2025-07-02 23:51:31
+[05:54:16] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751471491 (Range: 23:39:51 - 23:51:31)
+Processing: 2025-07-02 23:28:11 to 2025-07-02 23:39:51
+[05:54:18] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751470791 (Range: 23:28:11 - 23:39:51)
+Processing: 2025-07-02 23:16:31 to 2025-07-02 23:28:11
+[05:54:20] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751470091 (Range: 23:16:31 - 23:28:11)
+Processing: 2025-07-02 23:04:51 to 2025-07-02 23:16:31
+[05:54:22] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751469391 (Range: 23:04:51 - 23:16:31)
+Processing: 2025-07-02 22:53:11 to 2025-07-02 23:04:51
+[05:54:24] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751468691 (Range: 22:53:11 - 23:04:51)
+Processing: 2025-07-02 22:41:31 to 2025-07-02 22:53:11
+[05:54:27] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751467991 (Range: 22:41:31 - 22:53:11)
+Processing: 2025-07-02 22:29:51 to 2025-07-02 22:41:31
+[05:54:29] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751467291 (Range: 22:29:51 - 22:41:31)
+Processing: 2025-07-02 22:18:11 to 2025-07-02 22:29:51
+[05:54:31] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751466591 (Range: 22:18:11 - 22:29:51)
+Processing: 2025-07-02 22:06:31 to 2025-07-02 22:18:11
+[05:54:33] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751465891 (Range: 22:06:31 - 22:18:11)
+Processing: 2025-07-02 21:54:51 to 2025-07-02 22:06:31
+[05:54:35] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751465191 (Range: 21:54:51 - 22:06:31)
+Processing: 2025-07-02 21:43:11 to 2025-07-02 21:54:51
+[05:54:37] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751464491 (Range: 21:43:11 - 21:54:51)
+Processing: 2025-07-02 21:31:31 to 2025-07-02 21:43:11
+[05:54:39] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751463791 (Range: 21:31:31 - 21:43:11)
+Processing: 2025-07-02 21:19:51 to 2025-07-02 21:31:31
+[05:54:41] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751463091 (Range: 21:19:51 - 21:31:31)
+Processing: 2025-07-02 21:08:11 to 2025-07-02 21:19:51
+[05:54:43] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751462391 (Range: 21:08:11 - 21:19:51)
+Processing: 2025-07-02 20:56:31 to 2025-07-02 21:08:11
+[05:54:45] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751461691 (Range: 20:56:31 - 21:08:11)
+Processing: 2025-07-02 20:44:51 to 2025-07-02 20:56:31
+[05:54:47] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751460991 (Range: 20:44:51 - 20:56:31)
+Processing: 2025-07-02 20:33:11 to 2025-07-02 20:44:51
+[05:54:49] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751460291 (Range: 20:33:11 - 20:44:51)
+Processing: 2025-07-02 20:21:31 to 2025-07-02 20:33:11
+[05:54:51] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751459591 (Range: 20:21:31 - 20:33:11)
+Processing: 2025-07-02 20:09:51 to 2025-07-02 20:21:31
+[05:54:53] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751458891 (Range: 20:09:51 - 20:21:31)
+Processing: 2025-07-02 19:58:11 to 2025-07-02 20:09:51
+[05:54:55] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751458191 (Range: 19:58:11 - 20:09:51)
+Processing: 2025-07-02 19:46:31 to 2025-07-02 19:58:11
+[05:54:57] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751457491 (Range: 19:46:31 - 19:58:11)
+Processing: 2025-07-02 19:34:51 to 2025-07-02 19:46:31
+[05:54:59] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751456791 (Range: 19:34:51 - 19:46:31)
+Processing: 2025-07-02 19:23:11 to 2025-07-02 19:34:51
+[05:55:01] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751456091 (Range: 19:23:11 - 19:34:51)
+Processing: 2025-07-02 19:11:31 to 2025-07-02 19:23:11
+[05:55:03] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751455391 (Range: 19:11:31 - 19:23:11)
+Processing: 2025-07-02 18:59:51 to 2025-07-02 19:11:31
+[05:55:05] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751454691 (Range: 18:59:51 - 19:11:31)
+Processing: 2025-07-02 18:48:11 to 2025-07-02 18:59:51
+[05:55:07] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751453991 (Range: 18:48:11 - 18:59:51)
+Processing: 2025-07-02 18:36:31 to 2025-07-02 18:48:11
+[05:55:09] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751453291 (Range: 18:36:31 - 18:48:11)
+Processing: 2025-07-02 18:24:51 to 2025-07-02 18:36:31
+[05:55:11] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751452591 (Range: 18:24:51 - 18:36:31)
+Processing: 2025-07-02 18:13:11 to 2025-07-02 18:24:51
+[05:55:13] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751451891 (Range: 18:13:11 - 18:24:51)
+Processing: 2025-07-02 18:01:31 to 2025-07-02 18:13:11
+[05:55:15] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751451191 (Range: 18:01:31 - 18:13:11)
+Processing: 2025-07-02 17:49:51 to 2025-07-02 18:01:31
+[05:55:17] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751450491 (Range: 17:49:51 - 18:01:31)
+Processing: 2025-07-02 17:38:11 to 2025-07-02 17:49:51
+[05:55:19] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751449791 (Range: 17:38:11 - 17:49:51)
+Processing: 2025-07-02 17:26:31 to 2025-07-02 17:38:11
+[05:55:21] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751449091 (Range: 17:26:31 - 17:38:11)
+Processing: 2025-07-02 17:14:51 to 2025-07-02 17:26:31
+[05:55:22] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751448391 (Range: 17:14:51 - 17:26:31)
+Processing: 2025-07-02 17:03:11 to 2025-07-02 17:14:51
+[05:55:24] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751447691 (Range: 17:03:11 - 17:14:51)
+Processing: 2025-07-02 16:51:31 to 2025-07-02 17:03:11
+[05:55:26] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751446991 (Range: 16:51:31 - 17:03:11)
+Processing: 2025-07-02 16:39:51 to 2025-07-02 16:51:31
+[05:55:28] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751446291 (Range: 16:39:51 - 16:51:31)
+Processing: 2025-07-02 16:28:11 to 2025-07-02 16:39:51
+[05:55:30] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751445591 (Range: 16:28:11 - 16:39:51)
+Processing: 2025-07-02 16:16:31 to 2025-07-02 16:28:11
+[05:55:32] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751444891 (Range: 16:16:31 - 16:28:11)
+Processing: 2025-07-02 16:04:51 to 2025-07-02 16:16:31
+[05:55:34] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751444191 (Range: 16:04:51 - 16:16:31)
+Processing: 2025-07-02 15:53:11 to 2025-07-02 16:04:51
+[05:55:36] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751443491 (Range: 15:53:11 - 16:04:51)
+Processing: 2025-07-02 15:41:31 to 2025-07-02 15:53:11
+[05:55:38] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751442791 (Range: 15:41:31 - 15:53:11)
+Processing: 2025-07-02 15:29:51 to 2025-07-02 15:41:31
+[05:55:39] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751442091 (Range: 15:29:51 - 15:41:31)
+Processing: 2025-07-02 15:18:11 to 2025-07-02 15:29:51
+[05:55:41] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751441391 (Range: 15:18:11 - 15:29:51)
+Processing: 2025-07-02 15:06:31 to 2025-07-02 15:18:11
+[05:55:43] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751440691 (Range: 15:06:31 - 15:18:11)
+Processing: 2025-07-02 14:54:51 to 2025-07-02 15:06:31
+[05:55:45] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751439991 (Range: 14:54:51 - 15:06:31)
+Processing: 2025-07-02 14:43:11 to 2025-07-02 14:54:51
+[05:55:47] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751439291 (Range: 14:43:11 - 14:54:51)
+Processing: 2025-07-02 14:31:31 to 2025-07-02 14:43:11
+[05:55:49] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751438591 (Range: 14:31:31 - 14:43:11)
+Processing: 2025-07-02 14:19:51 to 2025-07-02 14:31:31
+[05:55:51] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751437891 (Range: 14:19:51 - 14:31:31)
+=== Начальная загрузка данных ===
+Processing: 2025-07-03 05:46:39 to 2025-07-03 05:58:19
+[05:58:19] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751493499
+[05:58:21] Added/updated 91 records
+Processing: 2025-07-03 05:34:59 to 2025-07-03 05:46:39
+[05:58:22] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751492799
+[05:58:23] Added/updated 129 records
+Processing: 2025-07-03 05:23:19 to 2025-07-03 05:34:59
+[05:58:24] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751492099
+[05:58:25] Added/updated 131 records
+Processing: 2025-07-03 05:11:39 to 2025-07-03 05:23:19
+[05:58:26] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751491399
+[05:58:27] Added/updated 152 records
+Processing: 2025-07-03 04:59:59 to 2025-07-03 05:11:39
+[05:58:28] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751490699
+[05:58:30] Added/updated 177 records
+Processing: 2025-07-03 04:48:19 to 2025-07-03 04:59:59
+[05:58:31] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751489999
+[05:58:32] Added/updated 195 records
+Processing: 2025-07-03 04:36:39 to 2025-07-03 04:48:19
+[05:58:33] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751489299
+[05:58:34] Added/updated 196 records
+Processing: 2025-07-03 04:24:59 to 2025-07-03 04:36:39
+[05:58:35] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751488599
+[05:58:36] Added/updated 177 records
+Processing: 2025-07-03 04:13:19 to 2025-07-03 04:24:59
+[05:58:37] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751487899
+[05:58:39] Added/updated 167 records
+Processing: 2025-07-03 04:01:39 to 2025-07-03 04:13:19
+[05:58:40] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751487199
+[05:58:41] Added/updated 190 records
+Processing: 2025-07-03 03:49:59 to 2025-07-03 04:01:39
+[05:58:42] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751486499
+[05:58:43] Added/updated 194 records
+Processing: 2025-07-03 03:38:19 to 2025-07-03 03:49:59
+[05:58:44] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751485799
+[05:58:45] Added/updated 193 records
+Processing: 2025-07-03 03:26:39 to 2025-07-03 03:38:19
+[05:58:46] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751485099
+[05:58:48] Added/updated 185 records
+Processing: 2025-07-03 03:14:59 to 2025-07-03 03:26:39
+[05:58:49] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751484399
+[05:58:50] Added/updated 168 records
+Processing: 2025-07-03 03:03:19 to 2025-07-03 03:14:59
+[05:58:51] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751483699
+[05:58:52] Added/updated 188 records
+Processing: 2025-07-03 02:51:39 to 2025-07-03 03:03:19
+[05:58:53] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751482999
+[05:58:55] Added/updated 192 records
+Processing: 2025-07-03 02:39:59 to 2025-07-03 02:51:39
+[05:58:56] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751482299
+[05:58:57] Added/updated 216 records
+Processing: 2025-07-03 02:28:19 to 2025-07-03 02:39:59
+[05:58:58] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751481599
+[05:58:59] Added/updated 234 records
+Processing: 2025-07-03 02:16:39 to 2025-07-03 02:28:19
+[05:59:00] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751480899
+[05:59:02] Added/updated 210 records
+Processing: 2025-07-03 02:04:59 to 2025-07-03 02:16:39
+[05:59:03] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751480199
+[05:59:04] Added/updated 191 records
+Processing: 2025-07-03 01:53:19 to 2025-07-03 02:04:59
+[05:59:05] API: Requesting https://wank.wavu.wiki/api/replays?_format=json&before=1751479499

@@ -1,0 +1,12 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Исключаем конкретные файлы из перезаписи
+    RewriteCond %{REQUEST_URI} ^/fetch\.php$ [NC]
+    RewriteRule ^ - [L]
+
+    # Основное правило: всё остальное направляем в index.php
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ index.php?/$1 [L]
+</IfModule>
